@@ -200,4 +200,4 @@ aztec start --node --archiver --sequencer \
 
 ---
 
-*Guide created by Ez Labs Nodes*
+*Guide created by FasoNodez*
